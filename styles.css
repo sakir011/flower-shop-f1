@@ -38,5 +38,51 @@ body{
     background: #E55473;
     color: #FFFFFF;
 }
+.main{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+.pink-1{
+    width: 260px;
+    height: 270px;
+    background-color: #A7216226;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+    padding-top: 30px;
+}
+.pink-2{
+    width: 260px;
+    height: 270px;
+    background-color:#0597A026;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+    padding-top: 30px;
+}
+.pink-3{
+    width: 260px;
+    height: 270px;
+    background-color:#477D1126;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+    padding-top: 30px;
+}
+.pink-pink{
+    display: flex;
+    gap: 15px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
 
+
+.font{
+    
+    gap: 135px;
+    padding-left: 400px;
+    margin-top: 20px;
+    display: flex;
+    
+    text-decoration: underline;
+}
+   
 
