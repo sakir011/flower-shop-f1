@@ -69,19 +69,20 @@ body{
 }
 .pink-pink{
     display: flex;
-    gap: 15px;
-    margin-left: 300px;
+    gap: 25px;
+    
     margin-top: 20px;
+    justify-content: center;
 }
 
 
 .font{
     
     gap: 135px;
-    padding-left: 400px;
+    padding-left: 350px;
     margin-top: 20px;
     display: flex;
-    
+    text-align: center;
     text-decoration: underline;
 }
 .sign-up{
@@ -116,7 +117,8 @@ body{
 .images4{
     display: flex;
     gap: 25px;
-    margin-left: 250px;
+    /* margin-left: 250px; */
+    justify-content: center;
     
 }
 .btn-submit{
@@ -149,6 +151,7 @@ body{
     margin-top: 30px;
    margin: 40px 100px;
    border-radius: 8px;
+   padding: 40px;
     
 }
 .footer{
