@@ -139,6 +139,11 @@ body{
     
     
 }
+.discount{
+    text-align: center;
+    font-size: 40px;
+    color: #E55473;
+}
 .back-images{
     background-image: url(images/flower9.jpg.png);
     margin-top: 30px;
