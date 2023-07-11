@@ -115,9 +115,38 @@ body{
 }
 .images4{
     display: flex;
-    gap: 20px;
-    margin-left: 300px;
+    gap: 25px;
+    margin-left: 250px;
     
 }
+.btn-submit{
+    text-align: center;
+    padding: 60px;
+}
+.text{
+    width: 370px;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+
+}
+.submit1{
+    padding: 12px;
+    color: #FFFFFF;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    
+    
+}
+.back-images{
+    background-image: url(images/flower9.jpg.png);
+    margin-top: 30px;
+   margin: 40px 100px;
+   border-radius: 8px;
+    
+}
+
+
 
 
