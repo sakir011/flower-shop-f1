@@ -12,10 +12,10 @@ body{
 .flower-rose{
     display: flex;
     /* text-align: center; */
-    
     justify-content: space-between;
-    background-color: #E554731A;
+    background-color:#E554731A;
     padding:100px;
+    
 }
 .images{
     width: 350px;
@@ -84,5 +84,30 @@ body{
     
     text-decoration: underline;
 }
-   
+.sign-up{
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+    gap: 100px;
+    background-color: hwb(347 34% 6% / 0.073);
+    justify-content: center;
+
+}
+.sign{
+    margin-top: 200px;
+}
+.flower4{
+    padding-top: 140px;
+}
+.btn-sing-up{
+    display: inline-flex;
+    padding: 17px 30px;
+    color: wheat;
+    gap: 10px;
+    border-radius: 6px;
+    background: #E55473;
+    border: 0px;
+
+}
+
 
